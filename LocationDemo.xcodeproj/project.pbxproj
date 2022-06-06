@@ -17,6 +17,7 @@
 		3347FE1E283B5C0800D4D1F5 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3347FE1D283B5C0800D4D1F5 /* Utilities.swift */; };
 		3347FE20283B7E2800D4D1F5 /* GeoCodingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3347FE1F283B7E2800D4D1F5 /* GeoCodingVC.swift */; };
 		3347FE22283B812300D4D1F5 /* GeocodingUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3347FE21283B812300D4D1F5 /* GeocodingUtility.swift */; };
+		365FF9EA284E160600205753 /* Utilities2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365FF9E9284E160600205753 /* Utilities2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		3347FE1D283B5C0800D4D1F5 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		3347FE1F283B7E2800D4D1F5 /* GeoCodingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoCodingVC.swift; sourceTree = "<group>"; };
 		3347FE21283B812300D4D1F5 /* GeocodingUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeocodingUtility.swift; sourceTree = "<group>"; };
+		365FF9E9284E160600205753 /* Utilities2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				3347FE1D283B5C0800D4D1F5 /* Utilities.swift */,
 				3347FE1F283B7E2800D4D1F5 /* GeoCodingVC.swift */,
 				3347FE21283B812300D4D1F5 /* GeocodingUtility.swift */,
+				365FF9E9284E160600205753 /* Utilities2.swift */,
 			);
 			path = LocationDemo;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3347FE0C283B43AC00D4D1F5 /* ViewController.swift in Sources */,
+				365FF9EA284E160600205753 /* Utilities2.swift in Sources */,
 				3347FE1C283B462800D4D1F5 /* LocationUtility.swift in Sources */,
 				3347FE20283B7E2800D4D1F5 /* GeoCodingVC.swift in Sources */,
 				3347FE08283B43AC00D4D1F5 /* AppDelegate.swift in Sources */,
